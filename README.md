@@ -1,4 +1,3 @@
 # leema
-print("Myself leemashree.s")
-print(currently a first year ECE student ")
-print("at srm ")
+Myself leemashree.s
+currently a first year ECE student at srm 
